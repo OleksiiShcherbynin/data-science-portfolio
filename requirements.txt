@@ -1,0 +1,9 @@
+# Versions the notebooks were executed with (Python 3.12)
+pandas==3.0.5
+numpy==2.4.6
+matplotlib==3.10.3
+scikit-learn==1.9.0
+statsmodels==0.14.6
+tensorflow==2.21.0
+keras==3.15.1
+ipykernel==7.3.0

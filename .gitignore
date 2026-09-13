@@ -1,0 +1,11 @@
+# Datasets are not redistributed; see data/README.md for sources
+data/*
+!data/README.md
+
+# Model checkpoints produced by notebook 02
+*.keras
+*.h5
+
+.ipynb_checkpoints/
+__pycache__/
+.venv/
